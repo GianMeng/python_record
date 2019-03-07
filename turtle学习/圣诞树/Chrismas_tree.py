@@ -46,4 +46,4 @@ for i in range(17,20):
         square.stamp()
         square.goto(-x,-y+280)
         square.stamp()
-turtle.exitonclick()
+turtle.exitonclick()1
